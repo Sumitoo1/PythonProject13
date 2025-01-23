@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy>=1.24.0
+streamlit
+setuptools
+wheel
+gunicorn>=20.1.0
+matplotlib
+plotly
+wordcloud  # <== Missing in your file
